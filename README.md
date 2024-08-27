@@ -1,4 +1,4 @@
 # lab 02 task
 ## clone writing 
 **bold**\
-_italian_
+***This text is both bold and italics***\
