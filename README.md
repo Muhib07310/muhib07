@@ -2,4 +2,5 @@
 ## clone writing 
 **bold**\
 ***This text is both bold and italics***
-*****fast*****
+*This text is italics*\
+~~OOPS I made an error~~
